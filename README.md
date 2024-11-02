@@ -9,7 +9,7 @@ In this laboratory we are going to use different algorithms to resolve the **TSP
 ## Results
 
 Using as parameters:
-- **MAX_GENERATIONS** = 5_000
+- **MAX_GENERATIONS** = 5_000 (for Italy, Russia and Vanuatu) or 2_000 (for China and US)
 - **POPULATION_SIZE** = 10
 - **RATE** = 0.5
 - **MUT_RATE** = 0.1
